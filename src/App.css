@@ -1,0 +1,46 @@
+#title {
+  margin-top: 50px;
+  margin-left: 610px;
+  font-size: xxx-large;
+  color: brown;
+  text-shadow: 4px 4px 8px black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#main {
+  border: 1px solid black;
+  height: 560px;
+  width: 572px;
+  margin-left: 450px;
+  margin-top: 20px;
+  background-color: darkgray;
+  float: left;
+  box-shadow: 15px 15px 15px black;
+  border-radius: 8px;
+}
+
+#screen {
+  color: black;
+  background-color: white;
+  font-size:xx-large;
+  height: 100px;
+  width: 546px;
+  margin-top: 8px;
+  margin-left: 8px;
+  border: 2px solid black;
+  text-align: right;
+  font-size: 70px;
+  border-radius: 8px;
+  
+}
+
+.btn {
+  margin-left: 11px;
+  margin-top: 5px;
+  height: 100px;
+  width: 128px;
+  background-color: brown;
+  color: white;
+  font-size: xx-large;
+  border-radius: 5px;
+}
